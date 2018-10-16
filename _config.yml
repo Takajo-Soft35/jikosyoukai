@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title:Github Pages チュードリアル
+description: 自己紹介　　藤本　佳吾
+github:
+  is_project_page: false
